@@ -12,9 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need a C++ compiler (like g++ or clang) and a build system (like CMake or simply compiling with the command line).
+You will need a C++ compiler.
 
-* **C++ Compiler:** [Specify minimum required standard, e.g., C++17]
 
 ### Installation and Compilation
 
