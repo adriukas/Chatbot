@@ -45,7 +45,7 @@ Here it is:
 
 ---
 
-## 🧠 Usage and Features
+## Usage and Features
 
 **Bot-friend** is an engaging and supportive conversational agent focusing on two key areas: well-being and fitness.
 
