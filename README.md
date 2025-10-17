@@ -29,19 +29,12 @@ You will need a C++ compiler (like g++ or clang) and a build system (like CMake 
     ```bash
     g++ -std=c++17 main.cpp Chatbot.cpp User.cpp -o ChatbotApp
     ```
-    *(**Note:** Adjust the flag `-std=c++17` if your required standard is different. Include any necessary libraries if you have them.)*
 
 3.  **Run the application:**
     ```bash
     ./ChatbotApp
     ```
 
-
----
-
-Understood! You want the complete **"Usage and Features"** section again, formatted for your GitHub README.
-
-Here it is:
 
 ---
 
